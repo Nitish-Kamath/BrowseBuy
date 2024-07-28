@@ -77,11 +77,13 @@ const AppContext = ({ children }) => {
         setCartItems,
         handleAddToCart,
         cartCount,
+        setCartCount,
         handleRemoveFromCart,
         showCart,
         setShowCart,
         handleCartProductQuantity,
         cartSubTotal,
+        setCartSubTotal,
       }}
     >
       {children}
