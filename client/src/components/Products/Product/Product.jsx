@@ -8,10 +8,7 @@ const Product = ({ data, id }) => {
     <div className="product-card" onClick={() => navigate("/product/" + id)}>
       <div className="thumbnail">
         <img
-          src={
-            process.env.REACT_APP_STRIPE_APP_DEV_URL +
-            data.image.data[0].attributes.url
-          }
+          src={process.env.REACT_APP_DEV_URL + data.img.data[0].attributes.url}
         />
       </div>
       <div className="prod-details">

@@ -1,0 +1,7 @@
+about
+category 
+read more 
+show now 
+favourite cart not working 
+clicking on cart gives 
+missing value for Stripe()
