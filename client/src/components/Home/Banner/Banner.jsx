@@ -10,8 +10,10 @@ const Banner = () => {
         <div className="text-content">
           <h1>SALES</h1>
           <p>
-            Convallis interdum purus adipiscing dis parturient posuere ac a quam
-            a eleifend montes parturient posuere curae tempor
+            Welcome to BrowseBuy, your one-stop destination for a seamless
+            online shopping experience. At BrowseBuy, we are committed to
+            bringing you a diverse range of products, from the latest fashion
+            trends to essential household items, all at competitive prices.
           </p>
           <div className="ctas">
             <div className="banner-cta">Read More</div>

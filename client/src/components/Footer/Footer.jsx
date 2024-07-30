@@ -9,27 +9,33 @@ const Footer = () => {
         <div className="col">
           <div className="title">About</div>
           <div className="text">
-            Voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto
-            beatae vitae dicta sunt explicabo eaque ipsa quae ab illo.
+            Welcome to BrowseBuy, your ultimate destination for a seamless
+            online shopping experience. At BrowseBuy, we are dedicated to
+            offering a wide variety of electronic products, such as Bluetooth
+            speakers, headphones, wireless earphones, and smartwatches, all at
+            competitive prices. Our mission is to provide a delightful, secure,
+            and convenient shopping journey. With an extensive catalog,
+            user-friendly design, secure transactions, and fast, reliable
+            shipping, we strive to make your online shopping experience as
+            smooth and satisfying as possible.
+            <br />
+            <br />
+            <div>Happy Shopping!</div>
           </div>
         </div>
         <div className="col">
           <div className="title">Contact</div>
           <div className="c-item">
             <FaLocationArrow />
-            <div className="text">
-              Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha, Kerala,
-              688006
-            </div>
+            <div className="text">Krishnapur, Kestopur Kolkata 700102</div>
           </div>
           <div className="c-item">
             <FaMobileAlt />
-            <div className="text">Phone: 0471 272 0261</div>
+            <div className="text">Phone: 8789102621</div>
           </div>
           <div className="c-item">
             <FaEnvelope />
-            <div className="text">Email: store@jsdev.com</div>
+            <div className="text">Email: nitishkamath63590@gmail.com</div>
           </div>
         </div>
         <div className="col">
@@ -54,7 +60,7 @@ const Footer = () => {
       <div className="bottom-bar">
         <div className="bottom-bar-content">
           <span className="text">
-            JSDEVSTORE 2022 CREATED BY JS DEV. PREMIUM E-COMMERCE SOLUTIONS.
+            BROWSEBUY CREATED BY Nitish Kumar. PREMIUM E-COMMERCE SOLUTIONS.
           </span>
           <img src={Payment} />
         </div>
